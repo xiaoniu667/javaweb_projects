@@ -1,0 +1,6 @@
+com\ag\web\LoginServlet.class
+com\ag\service\UserService.class
+com\ag\pojo\User.class
+com\ag\web\registerServlet.class
+com\ag\mapper\UserMapper4.class
+com\ag\util\SqlSessionFactoryUtils.class
